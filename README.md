@@ -23,7 +23,7 @@ This project aims to design an efficient and low-cost vehicle capable of removin
 
 | File               | Description                       |
 |--------------------|-----------------------------------|
-| ![Abstract](./files/abstract.pdf)             | Project overview in brief |
+| ![Abstract](./files/Abstract.pdf)             | Project overview in brief |
 | ![Final Report](./files/report.pdf) | Detailed explanation, design, and analysis |
 | ![Review Paper](./files/reviewpaper.pdf)       | Literature review and research background |
 | ![Presentation](./files/PPT.pptx) | Slides used during final viva |
