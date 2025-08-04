@@ -1,4 +1,4 @@
-# 🚜 Design and Analysis of Water Body Cleaning Vehicle using Fusion 360
+# Design and Analysis of Water Body Cleaning Vehicle using Fusion 360
 
 **Final Year Project – B.E. Mechanical Engineering (2024)**  
 By Bharanikumar Arunagiri
